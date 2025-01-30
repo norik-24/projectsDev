@@ -1,2 +1,3 @@
 ## SUPERTIULO
-**TITULO EN PROCESO**
+## actualizacion del readme 
+**cosas importantes**
