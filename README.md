@@ -1,3 +1,3 @@
 ## SUPERTIULO
-## actualizacion del readme 
+## actualizacion del readme
 **cosas importantes**
